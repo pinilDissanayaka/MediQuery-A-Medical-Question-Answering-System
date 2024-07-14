@@ -40,7 +40,7 @@ We welcome contributions to enhance MediQuery! Here are some ways you can contri
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-[MedQuAD](https://www.kaggle.com/datasets/gvaldenebro/cancer-q-and-a-dataset) for the comprehensive medical dataset.
-[LangChain](https://www.langchain.com/) for the orchestration framework.
-[ChromaDB](https://www.trychroma.com/) for the vector database solution.
-[Gemini](https://gemini.google.com/) for the powerful language model.
+- [MedQuAD](https://www.kaggle.com/datasets/gvaldenebro/cancer-q-and-a-dataset) for the comprehensive medical dataset.
+- [LangChain](https://www.langchain.com/) for the orchestration framework.
+- [ChromaDB](https://www.trychroma.com/) for the vector database solution.
+- [Gemini](https://gemini.google.com/) for the powerful language model.
