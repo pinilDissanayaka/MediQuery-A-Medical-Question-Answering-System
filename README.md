@@ -17,8 +17,8 @@ MediQuery is an advanced medical question-answering system leveraging the MedQuA
 
 ### Clone the Repository
 ```
-git clone https://github.com/yourusername/MediQuery.git
-cd MediQuery
+git clone https://github.com/pinilDissanayaka/MediQuery-A-Medical-Question-Answering-System.git
+cd MediQuery-A-Medical-Question-Answering-System
 ```
 ### Set Up Virtual Environment
 ```
