@@ -1,0 +1,8 @@
+langchain
+langchain_community
+sentence-transformers
+transformers
+langchain_core
+langchain_google_genai
+unstructured
+langchain-chroma
